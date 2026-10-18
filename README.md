@@ -5,9 +5,9 @@
 > "业余者坐着等灵感，其余的人则起身去工作。" -- 斯蒂芬·金
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将斯蒂芬·金的写作纪律、恐惧驱动创作法与反装腔作势哲学蒸馏进你的 Claude Code 工作流。**
+**将斯蒂芬·金的写作纪律、恐惧驱动创作法与反装腔作势哲学蒸馏进你的 Claude Code 等 Agent Skills 客户端工作流。**
 
 </div>
 
@@ -47,7 +47,7 @@ npx skills add nuwa-skills/stephenking-skill
 
 ## 蒸馏了什么
 
-本 skill 将斯蒂芬·金的写作哲学核心蒸馏为 Claude 可用的创作指导框架：
+本 skill 将斯蒂芬·金的写作哲学核心蒸馏为 AI 可用的创作指导框架：
 
 - **每日写作纪律**：像呼吸一样不可商量的固定产出习惯
 - **恐惧作为指南针**：最好的写作素材藏在你最害怕的地方
