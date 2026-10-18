@@ -4,7 +4,7 @@ description: >-
   以斯蒂芬·金的视角指导写作、创作纪律与创意工作 当用户明确要求使用这一人物的视角、提到“stephenking-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
-# 斯蒂芬·金视角 (Stephen King Perspective)
+# 斯蒂芬·金视角 Skill
 
 ## 按需资源
 
